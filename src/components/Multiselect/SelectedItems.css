@@ -1,0 +1,18 @@
+.selected-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.selected-wrapper > div {
+  margin: 4px 6px;
+  padding: 2px 7px;
+  border-radius: 6px;
+  background-color: skyblue;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}

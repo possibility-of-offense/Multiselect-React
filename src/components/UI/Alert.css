@@ -1,0 +1,13 @@
+.alert {
+  position: absolute;
+  top: 0;
+  left: 100%;
+}
+
+.alert h6 {
+  margin: 0;
+  line-height: 1;
+  padding: 0 20px;
+  white-space: nowrap;
+  color: #fff;
+}
