@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multiselect-React/static/css/main.639587c5.css",
+    "main.js": "/Multiselect-React/static/js/main.a8a1c2c4.js",
+    "static/js/787.e155095b.chunk.js": "/Multiselect-React/static/js/787.e155095b.chunk.js",
+    "index.html": "/Multiselect-React/index.html",
+    "main.639587c5.css.map": "/Multiselect-React/static/css/main.639587c5.css.map",
+    "main.a8a1c2c4.js.map": "/Multiselect-React/static/js/main.a8a1c2c4.js.map",
+    "787.e155095b.chunk.js.map": "/Multiselect-React/static/js/787.e155095b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639587c5.css",
+    "static/js/main.a8a1c2c4.js"
+  ]
+}
